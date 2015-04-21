@@ -1,0 +1,16 @@
+{
+  "name": "sour-halibut",
+  "version": "0.0.0",
+  "authors": [
+    "Brendan Reen <brendan.reen@cengage.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
